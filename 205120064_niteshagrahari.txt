@@ -1,0 +1,12 @@
+this is text file that contain some git command
+
+git status :  gives list of staged file if file is not ready for staged than it shows red
+git log    :  display all commit history that you have performed entire
+git config :   define author name which you have initialize globally
+git add    :   adding new file to queue of staging area
+git commit -m : using text editor as a commit message
+git config --global user.name : define author name that is to be used by current user 
+git config --global user.gmail : define author email that is to be used by current user
+git branch : adding a new branch 
+git merge : merging branch into the current branch 
+git push : pushing branch into commit 
